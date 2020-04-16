@@ -1,0 +1,7 @@
+gihyo.jp/
+lib/
+bin/
+pyvenv.cfg
+pip-selfcheck.json
+include/
+.DS_Store
