@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>gihyo.jp：総合</title>
+ <link>https://gihyo.jp/</link>
+ <description>gihyo.jp（総合）の更新情報をお届けします</description>
+ <language>ja-jp</language>
+ <copyright>技術評論社 2020</copyright>
+ <lastBuildDate>Thu, 16 Apr 2020 23:52:00 +0900</lastBuildDate>
+ <image>
+  <url>https://gihyo.jp/assets/templates/gihyojp2007/image/header_logo_gihyo.gif</url>
+  <title>gihyo.jp</title>
+  <link>https://gihyo.jp/</link>
+ </image>
+ <item>
+  <title>2020年4月第3週　AndroidをノートPCに変える周辺機器「Mirabook」 ── Android Weekly Topics</title>
+  <link>https://gihyo.jp/lifestyle/clip/01/awt/202004/16</link>
+  <description>2020年4月第3週のAndroid関連のニュースをお届けします。</description>
+  <pubDate>Thu, 16 Apr 2020 09:15:30 +0900</pubDate>
+  <category domain="https://gihyo.jp/lifestyle/clip/01/awt">Android Weekly Topics</category>
+  <guid>https://gihyo.jp/lifestyle/clip/01/awt/202004/16</guid> 
+  <author>傍島康雄</author>
+ </item>
+ <item>
+  <title>2020年4月第3週号 1位は，リモートワークに関するヒント，記事，ツール，気になるネタは，AppleとGoogleが新型コロナ感染チェック用モバイルアプリを共同開発，プライバシー保護も確約 ── 週刊Webテク通信</title>
+  <link>https://gihyo.jp/design/clip/01/weekly-web-tech/202004/16</link>
+  <description>ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2020年4月6日～4月12日の間に見つけた記事のベスト5です。</description>
+  <pubDate>Thu, 16 Apr 2020 09:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/design/clip/01/weekly-web-tech">週刊Webテク通信</category>
+  <guid>https://gihyo.jp/design/clip/01/weekly-web-tech/202004/16</guid> 
+  <author>芦之由</author>
+ </item>
+ <item>
+  <title>第615回　サーバー版インストーラーに導入された自動インストール機能 ── Ubuntu Weekly Recipe</title>
+  <link>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0615</link>
+  <description>Ubuntuのサーバー版のインストーラーである「Subiquity」に最近「自動インストール機能」が追加されました。今回はその機能を試してみましょう。</description>
+  <pubDate>Wed, 15 Apr 2020 09:44:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/serial/01/ubuntu-recipe">Ubuntu Weekly Recipe</category>
+  <guid>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0615</guid> 
+  <author>柴田充也</author>
+ </item>
+ <item>
+  <title>あなたはデータに対する「正しい技術」を選択できますか？〜数理モデリングによる現象理解に向き合うときの気持ち ── 一般記事</title>
+  <link>https://gihyo.jp/dev/column/01/prog/2020/04/math-modeling</link>
+  <description>本稿では『データ活用のための数理モデリング入門』の紹介を兼ねて「数理モデリングとは何か」についての筆者の思いを書きます。</description>
+  <pubDate>Wed, 15 Apr 2020 09:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/dev/column">一般記事</category>
+  <guid>https://gihyo.jp/dev/column/01/prog/2020/04/math-modeling</guid> 
+  <author>熊谷雄介</author>
+ </item>
+ <item>
+  <title>2020年4月14日　“GKHだけど質問ある？” ―Greg Kroah-Hartman，5年ぶりにRedditに降臨 ── Linux Daily Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/linux_dt/202004/14</link>
+  <description>Linus Torvaldsを古くから支える大物カーネルメンテナーとして知られるGreg Kroah-Hartman，通称&quot;GKH&quot;が4月8日，RedditのLinuxコミュニティ「R/LINUX」に自身の作業環境についてポストした。</description>
+  <pubDate>Tue, 14 Apr 2020 16:35:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/linux_dt/202004/14</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>エクセルソフト，PC・ハードウェア診断キットの新バージョン「PC-Doctor Service Center 13日本語版」の販売開始 ── ニュースリリース</title>
+  <link>https://gihyo.jp/news/nr/2020/04/1401</link>
+  <description>エクセルソフトは，PC・ハードウェア診断キットの新バージョン「PC-Doctor Service Center 13日本語版」の販売を開始した。</description>
+  <pubDate>Tue, 14 Apr 2020 13:23:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/news/nr">ニュースリリース</category>
+  <guid>https://gihyo.jp/news/nr/2020/04/1401</guid> 
+  <author>技術評論社</author>
+ </item>
+ <item>
+  <title>2020年4月13日　“Things looked pretty normal” ―Linus，Linux 5.7の最初のリリース候補版を公開 ── Linux Daily Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/linux_dt/202004/13</link>
+  <description>Linus Torvaldsは4月12日（米国時間），次期LinuxカーネルLinux 5.7の最初のリリース候補（RC）版となる「Linux 5.7-rc1」を公開した。</description>
+  <pubDate>Mon, 13 Apr 2020 14:57:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/linux_dt/202004/13</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>2020年4月10日　Closing the Leap Gap ―SUSE，コミュニティ版とエンタープライズ版の統合を進める方針を表明 ── Linux Daily Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/linux_dt/202004/10</link>
+  <description>SUSEのCTOで製品/技術部門のリーダーでもあるGerald Pfeiferは4月9日，openSUSEユーザ向けのメーリングリストに「Bringing Leap and SUSE Linux Enterprise closer together - a proposal」と題した投稿をポストした。</description>
+  <pubDate>Fri, 10 Apr 2020 16:42:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/linux_dt/202004/10</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>2020年4月10日　自宅でできる運動など ── 帰ってきた『技評ねこ部通信』</title>
+  <link>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202004/0410</link>
+  <description>さぁ，張り切っていってみよう！
+</description>
+  <pubDate>Fri, 10 Apr 2020 15:00:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/lifestyle/clip/01/monthly-cat">帰ってきた『技評ねこ部通信』</category>
+  <guid>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202004/0410</guid> 
+  <author></author>
+ </item>
+ <item>
+  <title>2020年4月10日号　PinePhone UBports Community Edition，focalの開発：Ubuntu Testing WeekとKernel Freeze ── Ubuntu Weekly Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/ubuntu-topics/202004/10</link>
+  <description>「Ubuntu Touch搭載スマートフォン」に新しいデバイス，PinePhone UBports 'Community Edition'が登場しました。また，focalはBetaイメージのリリース後，Testing Weekに突入しています。
+</description>
+  <pubDate>Fri, 10 Apr 2020 09:39:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/ubuntu-topics">Ubuntu Weekly Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/ubuntu-topics/202004/10</guid> 
+  <author>吉田史</author>
+ </item>
+ <item>
+  <title>本書に寄せて macOSとコマンドの話 ── ［新版 zsh&amp;bash対応］macOS×コマンド入門 ──ターミナルとコマンドライン、基本の力</title>
+  <link>https://gihyo.jp/book/2020/978-4-297-11225-7/content/foreword</link>
+  <description>本書を手に取られた方の中には，本書のタイトルにある「コマンド」（command）って何のことだろうと思っている方もいらっしゃるでしょう。</description>
+  <pubDate>Fri, 10 Apr 2020 09:30:30 +0900</pubDate>
+  <category domain="https://gihyo.jp/book/2020/978-4-297-11225-7">［新版 zsh&amp;bash対応］macOS×コマンド入門 ──ターミナルとコマンドライン、基本の力</category>
+  <guid>https://gihyo.jp/book/2020/978-4-297-11225-7/content/foreword</guid> 
+  <author>新居雅行</author>
+ </item>
+ <item>
+  <title>まえがき 使える道具を増やす ── ［新版 zsh&amp;bash対応］macOS×コマンド入門 ──ターミナルとコマンドライン、基本の力</title>
+  <link>https://gihyo.jp/book/2020/978-4-297-11225-7/content/preface</link>
+  <description>本書は，macOSのコマンドを知り，活用していくための解説書です。</description>
+  <pubDate>Fri, 10 Apr 2020 09:30:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/book/2020/978-4-297-11225-7">［新版 zsh&amp;bash対応］macOS×コマンド入門 ──ターミナルとコマンドライン、基本の力</category>
+  <guid>https://gihyo.jp/book/2020/978-4-297-11225-7/content/preface</guid> 
+  <author>西村めぐみ</author>
+ </item>
+ <item>
+  <title>2020年4月9日　カーネルメンテナーのChristian Brauner，ループデバイスファイルシステム「loopfs」を提案 ── Linux Daily Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/linux_dt/202004/09</link>
+  <description>古参のカーネルメンテナーで，cgroupの新機能実装をメインで担当するChristian Braunerが，ふたたび大きなアップデートのプロポーザルを行っている。</description>
+  <pubDate>Thu, 09 Apr 2020 14:17:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/linux_dt/202004/09</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>2020年4月第2週号 1位は，新型コロナウイルスの影響も含めたウェブデザインのトレンドを3つ，気になるネタは，テレワークに必須！有料・無料のWEB会議アプリおすすめ8選（Zoom以外で） ── 週刊Webテク通信</title>
+  <link>https://gihyo.jp/design/clip/01/weekly-web-tech/202004/09</link>
+  <description>ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2020年3月23日～4月5日の間に見つけた記事のベスト5です。</description>
+  <pubDate>Thu, 09 Apr 2020 09:30:30 +0900</pubDate>
+  <category domain="https://gihyo.jp/design/clip/01/weekly-web-tech">週刊Webテク通信</category>
+  <guid>https://gihyo.jp/design/clip/01/weekly-web-tech/202004/09</guid> 
+  <author>芦之由</author>
+ </item>
+ <item>
+  <title>2020年4月第2週　Android 11 DP2.1のリリースとFluent Designのスタートメニュー ── Android Weekly Topics</title>
+  <link>https://gihyo.jp/lifestyle/clip/01/awt/202004/09</link>
+  <description>2020年4月第2週のAndroid関連のニュースをお届けします。</description>
+  <pubDate>Thu, 09 Apr 2020 09:30:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/lifestyle/clip/01/awt">Android Weekly Topics</category>
+  <guid>https://gihyo.jp/lifestyle/clip/01/awt/202004/09</guid> 
+  <author>傍島康雄</author>
+ </item>
+ <item>
+  <title>第614回　WireGuardでVPNサーバーを構築する ── Ubuntu Weekly Recipe</title>
+  <link>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0614</link>
+  <description>今回は，最近Linuxカーネルにマージされたことでも話題となっているWireGuardを用いて，VPNサーバーを構築する方法を紹介します。</description>
+  <pubDate>Wed, 08 Apr 2020 10:48:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/serial/01/ubuntu-recipe">Ubuntu Weekly Recipe</category>
+  <guid>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0614</guid> 
+  <author>水野源</author>
+ </item>
+ <item>
+  <title>銀行API実験環境とコミュニティを実現する「sunabar -GMOあおぞらネット銀行API実験場-」開始～さらなるフィンテックの発展を目指して ── ニュースリリース</title>
+  <link>https://gihyo.jp/news/nr/2020/04/0701</link>
+  <description>GMOあおぞらネット銀行株式会社は2020年4月7日，同社の銀行APIの新たな取り組みとして「sunabar -GMOあおぞらネット銀行API実験場-」（以降sunabar）を開始することを発表した。</description>
+  <pubDate>Tue, 07 Apr 2020 16:25:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/news/nr">ニュースリリース</category>
+  <guid>https://gihyo.jp/news/nr/2020/04/0701</guid> 
+  <author>馮富久</author>
+ </item>
+ <item>
+  <title>第119回　group_concat()を利用してgroup byを更に便利に使う ── MySQL道普請便り</title>
+  <link>https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0119</link>
+  <description>今回は，group byを使って集約を行った際に知っておくと少しだけ便利になるかもしれない集計関数の1つ，group_concat()という関数を紹介していきます。</description>
+  <pubDate>Tue, 07 Apr 2020 09:30:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/dev/serial/01/mysql-road-construction-news">MySQL道普請便り</category>
+  <guid>https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0119</guid> 
+  <author>木村浩一郎</author>
+ </item>
+ <item>
+  <title>2020年4月7日　Linux 5.7の新機能 ―親プロセスとは異なるcgroupへのプロセス生成が可能に ── Linux Daily Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/linux_dt/202004/07</link>
+  <description>3月29日に「Linux 5.6」がリリースされ，現在は次期Linuxカーネル「Linux 5.7」のマージウインドウがオープン中だが…。</description>
+  <pubDate>Tue, 07 Apr 2020 09:20:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/linux_dt/202004/07</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>AUTOMATIST，優れたAI人材を目指してオンライン講義を行う最新のAI学習アプローチを導入 ── ニュースリリース</title>
+  <link>https://gihyo.jp/news/nr/2020/04/0601</link>
+  <description>AUTOMATISTは，運営する日本最高峰のAIの学舎「巣籠塾」において最新のAI学習アプローチを導入する。</description>
+  <pubDate>Mon, 06 Apr 2020 12:05:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/news/nr">ニュースリリース</category>
+  <guid>https://gihyo.jp/news/nr/2020/04/0601</guid> 
+  <author>技術評論社</author>
+ </item>
+</channel>
+</rss>
